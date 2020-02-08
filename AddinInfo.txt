@@ -1,0 +1,12 @@
+//------------------------------------------------------------------
+// Addin-Application header control file, created with the CASIO SDK
+//------------------------------------------------------------------
+[OUTPUT]     : "BEZIER4.G1A"
+[BINDATA]    : "FXADDINror.bin"
+[DISPNAME]   : "bezier4"
+[APPNAME]    : "@BEZIER4"
+[VERSION]    : "01.00.0000"
+[APL_ICON]   : "MainIcon.bmp"
+[MODULE_NUM] : 0
+[MOD1_TITLE] : "bezier4"
+[MOD1_ICON]  : "eActivityIcon.bmp"
